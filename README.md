@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fajarhusain.com" target="_blank"><img src="[https://via.placeholder.com/400/0000FF/FFFFFF?text=Fajar+Husain+Logo](https://academy.patitech.id/assets/logo.27224916.svg)" width="400" alt="Fajar Husain Logo"></a></p>
+<p align="center"><a href="https://academy.patitech.id/" target="_blank"><img src="[https://academy.patitech.id/assets/logo.27224916.svg)" width="400" alt="Fajar Husain Logo"></a></p>
 
 <p align="center">
   </p>
